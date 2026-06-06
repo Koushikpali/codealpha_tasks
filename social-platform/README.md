@@ -219,6 +219,6 @@ NODE_ENV=development
 
 ---
 
-## License
+
 
 
